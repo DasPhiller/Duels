@@ -1,9 +1,10 @@
-name: ExamplePlugin
+name: Duels
 api-version: 1.18
 authors:
-  - You
-main: org.example.exampleplugin.ExamplePlugin
-version: 1.0.0
+  - PHIL_GAMER_YT
+  - Tigerbyte
+main: de.philgamer.duels.Main
+version: 1.0
 libraries:
   - "net.axay:kspigot:1.18.0"
   - "org.jetbrains.kotlin:kotlin-stdlib:1.6.10"
